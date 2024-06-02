@@ -13,12 +13,6 @@ The `Drone_height_control.m` file is a comprehensive MATLAB script that contains
     - $` ma_{z} = F_{control} -mg `$
   - ### Control algorithm
 
-## Features
-
-- Single-file implementation to reduce complexity
-- Easy to read and understand
-- Contains both the dynamics and control logic for height control
-
 ## Usage
 
 1. **Download the File:**
