@@ -5,8 +5,6 @@ The `Drone_height_control.m` file is a comprehensive MATLAB script that contains
 
 ## Overview
 
-- **Purpose:** To provide a straightforward implementation of drone height control using MATLAB.
-- **Components:** 
   - ### Dynamics
     Using newton's second law the drone 1-D equation of motion of the drone
     - $` F = F_{control}-F_{gravity} `$
