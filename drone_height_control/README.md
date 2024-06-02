@@ -1,7 +1,7 @@
 
 # Drone Height Control
 
-The `Drone_height_control.m` file is a comprehensive MATLAB script that integrates the 1D dynamics of a drone with a control algorithm. This single-file approach simplifies the overall structure, making it easier to understand and manage.
+The `Drone_height_control.m` file is a comprehensive MATLAB script that contains the altitude dynamics of a drone with a control algorithm. The `Drone_height_control.m` file combines everything into one script to make it easier to understand and reduce errors.
 
 ## Overview
 
