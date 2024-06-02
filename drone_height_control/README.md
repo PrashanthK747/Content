@@ -14,8 +14,12 @@ The `Drone_height_control.m` file is a comprehensive MATLAB script that contains
   - ### Control algorithm
     - $` F_{control} = mass*(gravity + Kp(h_{d}-h)+Kd(\dot{h}_{d}-\dot{h}))`$
         - where
-        - Kp propotional control gain,
-        -  Kd derivative control gain
+        - Kp propotional control gain
+        - Kd derivative control gain
+        - h_{d} desired height
+        - h actual height
+        - \dot{h}_{d} desired velocity
+        - \dot{h} actual velocity
 
 ## Usage
 
