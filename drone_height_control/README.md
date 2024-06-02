@@ -18,8 +18,8 @@ The `Drone_height_control.m` file is a comprehensive MATLAB script that contains
         - Kd derivative control gain
         - h_{d} desired height
         - h actual height
-        - \dot{h}_{d} desired velocity
-        - \dot{h} actual velocity
+        - $\dot{h}_{d}$ desired velocity
+        - $\dot{h}$ actual velocity
 
 ## Usage
 
